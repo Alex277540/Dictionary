@@ -16,3 +16,6 @@ $python3 WordsDictionary.py
 - Go To Script Path In Cmd With -- cd "Write Here The Path"
 
 - python3 WordsDictionary.py
+
+# Requirements
+- only Python 3.x
