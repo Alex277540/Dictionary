@@ -18,4 +18,4 @@ $python3 WordsDictionary.py
 - python3 WordsDictionary.py
 
 # Requirements
-- only Python 3.x
+- Only Python 3.x
