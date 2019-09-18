@@ -19,3 +19,12 @@ $python3 WordsDictionary.py
 
 # Requirements
 - Only Python 3.x
+
+# Usage
+- Enter 1 for start the script
+
+- Put the word you want to define
+
+- Wait a few seconds
+
+- It will give  you the word define 
